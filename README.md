@@ -14,4 +14,9 @@
 * **Open Rights**. Register your Instagram images automatically in a decentralized tamper-proof distibuted ledger. <br> [Github](https://github.com/copyright-project) | [Website](https://www.open-rights.org/)
 * **Open Rights Camera**. Extension to Open Camera Android application that registers newly shot image in a dedicated smart contract. <br> [Github](https://github.com/bolshchikov/opencamera-with-orbs) | [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.openregistrycamera)
 * **Books**. Public Domain book registring for verification of metadata about books that are registered on the Public Domain. <br> [Github](https://github.com/orbs-network/books)
+
 ## Libraries & SDK
+* **Gamma CLI**. Command line utility that controls local orbs node, deploys contracts, issues transactions and queries. <br> [Github](https://github.com/orbs-network/gamma-cli)
+* **Orbs Contract SDK**. Development Kit in Go langugage to use in smart contracts. <br> [Github](https://github.com/orbs-network/orbs-contract-sdk) | [Website](https://docs.orbs.network/contract-sdk/)
+* **Orbs Client SDK**. Development Kit in JavaScript for Browser and NodeJS that allows to interact to interact with smart contracts. <br> [Github](https://github.com/orbs-network/orbs-client-sdk-javascript)
+* **Notary Library**. Embed notary functionality into any service you like. <br> [Github](https://github.com/orbs-network/orbs-notary-lib)
