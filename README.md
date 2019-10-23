@@ -11,5 +11,7 @@
 * **Document Notarization**. Store document information and verify any document easily. <br> [Github](https://github.com/orbs-network/notary) | [Website](https://orbs-network.github.io/notary/#)
 
 ## Copyrights & Ownership
-
+* **Open Rights**. Register your Instagram images automatically in a decentralized tamper-proof distibuted ledger. <br> [Github](https://github.com/copyright-project) | [Website](https://www.open-rights.org/)
+* **Open Rights Camera**. Extension to Open Camera Android application that registers newly shot image in a dedicated smart contract. <br> [Github](https://github.com/bolshchikov/opencamera-with-orbs) | [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.openregistrycamera)
+* **Books**. Public Domain book registring for verification of metadata about books that are registered on the Public Domain. <br> [Github](https://github.com/orbs-network/books)
 ## Libraries & SDK
